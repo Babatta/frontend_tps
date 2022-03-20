@@ -1,0 +1,10 @@
+.header__middle{
+     background: linear-gradient(90deg, rgb(28, 27, 27) 0%);
+}
+.App {
+  box-sizing: border-box;
+  max-width: 900px;
+  margin: 0 auto;
+  font-family : 'PT Sans', sans-serif ;
+}
+
